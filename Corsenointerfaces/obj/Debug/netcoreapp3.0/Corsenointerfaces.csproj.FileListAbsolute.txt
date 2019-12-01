@@ -1,0 +1,11 @@
+C:\Temp\Corsenointerfaces\Corsenointerfaces\bin\Debug\netcoreapp3.0\Corsenointerfaces.exe
+C:\Temp\Corsenointerfaces\Corsenointerfaces\bin\Debug\netcoreapp3.0\Corsenointerfaces.deps.json
+C:\Temp\Corsenointerfaces\Corsenointerfaces\bin\Debug\netcoreapp3.0\Corsenointerfaces.runtimeconfig.json
+C:\Temp\Corsenointerfaces\Corsenointerfaces\bin\Debug\netcoreapp3.0\Corsenointerfaces.runtimeconfig.dev.json
+C:\Temp\Corsenointerfaces\Corsenointerfaces\bin\Debug\netcoreapp3.0\Corsenointerfaces.dll
+C:\Temp\Corsenointerfaces\Corsenointerfaces\bin\Debug\netcoreapp3.0\Corsenointerfaces.pdb
+C:\Temp\Corsenointerfaces\Corsenointerfaces\obj\Debug\netcoreapp3.0\Corsenointerfaces.csprojAssemblyReference.cache
+C:\Temp\Corsenointerfaces\Corsenointerfaces\obj\Debug\netcoreapp3.0\Corsenointerfaces.AssemblyInfoInputs.cache
+C:\Temp\Corsenointerfaces\Corsenointerfaces\obj\Debug\netcoreapp3.0\Corsenointerfaces.AssemblyInfo.cs
+C:\Temp\Corsenointerfaces\Corsenointerfaces\obj\Debug\netcoreapp3.0\Corsenointerfaces.dll
+C:\Temp\Corsenointerfaces\Corsenointerfaces\obj\Debug\netcoreapp3.0\Corsenointerfaces.pdb
